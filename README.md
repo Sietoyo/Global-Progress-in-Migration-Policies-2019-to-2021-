@@ -1,10 +1,26 @@
 ### Data Analysis Report: Progress Identification in Migration Policies (2019 to 2021)
 
 #### Objective
-The aim of this analysis is to identify countries that have made progress or regressed in their migration policies from 2019 to 2021. This information will help the organization understand global trends in migration policy effectiveness and prioritize regions for further support and intervention.
+The aim of this analysis is to identify countries that have made progress or regressed in their migration policies between 2019 and 2021. This information will help the organization understand global trends in migration policy effectiveness and prioritize regions for further support and intervention.
 
 #### Data Source
 United Nations: https://www.un.org/development/desa/pd/data/sdg-indicator-1072-migration-policies
+
+##### Overview
+This report provides an analysis of migration policies across various countries, focusing on their efforts to facilitate orderly, safe, regular, and responsible migration and mobility of people. The data spans multiple years and evaluates each country's policies according to a specific policy domain.
+
+##### The dataset comprises the following columns:
+
+- **Entity**: The name of the country.
+- **Code**: The ISO 3166-1 alpha-3 codes representing each country.
+- **Year**: The year in which the data was recorded.
+- **Migration Policy Evaluation**: A numeric score indicating the level of compliance with migration policies aimed at ensuring orderly and safe migration. The scores are:
+  - 1 = Requires further progress
+  - 2 = Partially meets
+  - 3 = Meets
+  - 4 = Fully meets
+
+
 #### Summary of Findings
 The analysis categorized changes in migration policy scores into three classifications: progress, regression, and no change. The analysis identifies countries that have shown notable improvements or declines in their migration policies.
 
